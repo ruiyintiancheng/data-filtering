@@ -110,6 +110,6 @@
     "not ie <= 8"
   ],
   "publishConfig": {
-    "registry": "http://47.93.121.177:8081/repository/npm-internal/"
+    "registry": "http://39.96.94.120:8081/repository/npm-internal/"
   }
 }
