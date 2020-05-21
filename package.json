@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@riophae/vue-treeselect": "0.0.37",
-    "axios": "0.17.1",
+    "axios": "0.19.2",
     "basic-table-browse-ry": "^1.0.0",
     "basic-table-ry": "^2.0.1",
     "clipboard": "1.7.1",
